@@ -1,0 +1,15 @@
+
+
+Prerequisite
+
+Use .NET Core
+MVC pattern
+SQLite SQL database engine (https://www.sqlite.org/index.html)
+
+
+Basic functionality
+
+Create new post
+Delete post
+Show what date the post was added
+Show author
